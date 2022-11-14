@@ -1,3 +1,10 @@
+# Adding file config.py.
+config.py
+
+# Adding additional files.
+API_practices.ipynb
+random_numbers.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
